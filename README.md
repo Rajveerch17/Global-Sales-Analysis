@@ -21,11 +21,12 @@ Data Visualization
   - Designed and built an interactive dashboard in Power BI to highlight key metrics and trends.
 
 📈 Dashboard Features
-KPI Cards
+
+1) KPI Cards -
 
   - Show total revenue and total items sold over two years
 
-Monthly Trend Analysis
+2) Monthly Trend Analysis -
 
   - Line chart showing month-by-month sales movement
 
@@ -33,17 +34,17 @@ Monthly Trend Analysis
 
   - Pie and donut charts for sales distribution by:
 
-Region
+3) Region -
 
   - Product type
 
   - Salesperson
 
-Performance Comparison
+4) Performance Comparison -
 
   - Bar charts comparing margins and item counts across categories
 
-Time-Based Margin Analysis
+5) Time-Based Margin Analysis -
 
   - Drillable visuals showing margins by:
 
@@ -53,12 +54,13 @@ Time-Based Margin Analysis
 
     -  Month
 
-Interactive Filters
+6) Interactive Filters
 
   - Let users slice data by customer and salesperson
 
 💡 Insights Delivered
-This dashboard enabled stakeholders to:
+
+This dashboard enabled stakeholders to :
 
 - Identify top-performing products
 
