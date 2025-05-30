@@ -58,6 +58,12 @@ Data Visualization
 
   - Let users slice data by customer and salesperson
 
+PROJECT DASHBOARD OVERVIEW - 
+
+![image](https://github.com/user-attachments/assets/b0fc6f06-a905-484b-9563-d907c27919a3)
+
+
+
 💡 Insights Delivered
 
 This dashboard enabled stakeholders to :
