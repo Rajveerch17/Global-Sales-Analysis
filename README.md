@@ -1,71 +1,71 @@
 # 🪑🌍 Global Furniture Sales Dashboard (2021–2022)
 📊 Overview
-This project features an interactive dashboard analyzing global furniture sales between 2021 and 2022. The primary aim was to extract insights from raw data and present them in a visually compelling way to support decision-making.
+  This project features an interactive dashboard analyzing global furniture sales between 2021 and 2022. The primary aim was to extract insights from raw data and present them in a visually compelling way to support decision-making.
 
 🧰 Tools Used
-Microsoft Excel – for data cleaning and preprocessing
+  - Microsoft Excel – for data cleaning and preprocessing
 
-Power BI – for data transformation, modeling, and interactive visualizations
+  - Power BI – for data transformation, modeling, and interactive visualizations
 
 🔧 Key Focus Areas
 Data Cleaning
-Used Excel to fix data types, remove duplicates, handle missing values, and ensure field consistency.
+  - Used Excel to fix data types, remove duplicates, handle missing values, and ensure field consistency.
 
 Data Transformation
-Processed raw sales records into structured, analysis-ready formats using Power BI.
+  - Processed raw sales records into structured, analysis-ready formats using Power BI.
 
 Data Analysis
-Explored data across dimensions like region, product type, and salesperson performance.
+  - Explored data across dimensions like region, product type, and salesperson performance.
 
 Data Visualization
-Designed and built an interactive dashboard in Power BI to highlight key metrics and trends.
+  - Designed and built an interactive dashboard in Power BI to highlight key metrics and trends.
 
 📈 Dashboard Features
 KPI Cards
 
-Show total revenue and total items sold over two years
+  - Show total revenue and total items sold over two years
 
 Monthly Trend Analysis
 
-Line chart showing month-by-month sales movement
+  - Line chart showing month-by-month sales movement
 
-Sales Breakdown Visuals
+  - Sales Breakdown Visuals
 
-Pie and donut charts for sales distribution by:
+  - Pie and donut charts for sales distribution by:
 
 Region
 
-Product type
+  - Product type
 
-Salesperson
+  - Salesperson
 
 Performance Comparison
 
-Bar charts comparing margins and item counts across categories
+  - Bar charts comparing margins and item counts across categories
 
 Time-Based Margin Analysis
 
-Drillable visuals showing margins by:
+  - Drillable visuals showing margins by:
 
-Year
+    - Year
 
-Quarter
+    - Quarter
 
-Month
+    -  Month
 
 Interactive Filters
 
-Let users slice data by customer and salesperson
+  - Let users slice data by customer and salesperson
 
 💡 Insights Delivered
 This dashboard enabled stakeholders to:
 
-Identify top-performing products
+- Identify top-performing products
 
-Recognize high-performing salespersons
+- Recognize high-performing salespersons
 
-Pinpoint high-margin regions
+- Pinpoint high-margin regions
 
-Understand seasonal sales trends
+- Understand seasonal sales trends
 
 These insights support data-driven strategies in sales planning and resource allocation.
