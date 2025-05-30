@@ -1,40 +1,71 @@
-# Project Title
+# 🪑🌍 Global Furniture Sales Dashboard (2021–2022)
+📊 Overview
+This project features an interactive dashboard analyzing global furniture sales between 2021 and 2022. The primary aim was to extract insights from raw data and present them in a visually compelling way to support decision-making.
 
-A brief description of your project goes here. Explain what the project does and its purpose.
+🧰 Tools Used
+Microsoft Excel – for data cleaning and preprocessing
 
-## Table of Contents
+Power BI – for data transformation, modeling, and interactive visualizations
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+🔧 Key Focus Areas
+Data Cleaning
+Used Excel to fix data types, remove duplicates, handle missing values, and ensure field consistency.
 
-## Installation
+Data Transformation
+Processed raw sales records into structured, analysis-ready formats using Power BI.
 
-To install the project, clone the repository and run the following commands:
+Data Analysis
+Explored data across dimensions like region, product type, and salesperson performance.
 
-```bash
-npm install
-```
+Data Visualization
+Designed and built an interactive dashboard in Power BI to highlight key metrics and trends.
 
-## Usage
+📈 Dashboard Features
+KPI Cards
 
-Provide instructions on how to use the application. Include examples if applicable.
+Show total revenue and total items sold over two years
 
-```bash
-npm start
-```
+Monthly Trend Analysis
 
-## Contributing
+Line chart showing month-by-month sales movement
 
-If you would like to contribute to this project, please follow these steps:
+Sales Breakdown Visuals
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+Pie and donut charts for sales distribution by:
 
-## License
+Region
 
-Include information about the license under which the project is distributed.
+Product type
+
+Salesperson
+
+Performance Comparison
+
+Bar charts comparing margins and item counts across categories
+
+Time-Based Margin Analysis
+
+Drillable visuals showing margins by:
+
+Year
+
+Quarter
+
+Month
+
+Interactive Filters
+
+Let users slice data by customer and salesperson
+
+💡 Insights Delivered
+This dashboard enabled stakeholders to:
+
+Identify top-performing products
+
+Recognize high-performing salespersons
+
+Pinpoint high-margin regions
+
+Understand seasonal sales trends
+
+These insights support data-driven strategies in sales planning and resource allocation.
